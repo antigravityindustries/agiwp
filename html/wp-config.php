@@ -29,7 +29,7 @@ define('DB_NAME', getenv('agiwordpress'));
 define('DB_USER', getenv('agiword@antigravitydb'));
 
 /** MySQL database password */
-define('DB_PASSWORD', getenv('Make1tfl0ats1t3'));
+define('DB_PASSWORD', getenv('make1tfl0ats1t3'));
 
 /** MySQL hostname */
 define('DB_HOST', getenv('antigravitydb.mysql.database.azure.com'));
