@@ -26,10 +26,10 @@ define('MYSQL_SSL_CA', '/etc/ssl/certs/Baltimore_CyberTrust_Root.pem');
 define('DB_NAME', getenv('agiwordpress'));
 
 /** MySQL database username */
-define('DB_USER', getenv('agiadmin@antigravitydb'));
+define('DB_USER', getenv('agiword@antigravitydb'));
 
 /** MySQL database password */
-define('DB_PASSWORD', getenv('Make1tfl0at'));
+define('DB_PASSWORD', getenv('Make1tfl0ats1t3'));
 
 /** MySQL hostname */
 define('DB_HOST', getenv('antigravitydb.mysql.database.azure.com'));
